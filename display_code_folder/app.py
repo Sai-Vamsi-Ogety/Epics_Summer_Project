@@ -1,6 +1,7 @@
 from flask import Flask,url_for,render_template,request
-import spacy as space
+import spacy 
 from spacy import displacy
+
 nlp = spacy.load('en_core_web_sm')
 import json
 

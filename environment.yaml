@@ -1,0 +1,5 @@
+name: test_env
+channels:
+  - defaults
+prefix: /home/sai-vamsi-ogety/miniconda3/envs/test_env
+
