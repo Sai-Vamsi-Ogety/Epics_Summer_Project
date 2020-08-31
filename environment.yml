@@ -1,0 +1,54 @@
+name: epics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - attrs=20.1.0=pyh9f0ad1d_0
+  - brotlipy=0.7.0=py36h779f372_1000
+  - ca-certificates=2020.6.20=hecda079_0
+  - catalogue=1.0.0=py_0
+  - certifi=2020.6.20=py36h9f0ad1d_0
+  - cffi=1.14.1=py36hef61171_0
+  - chardet=3.0.4=py36h9f0ad1d_1006
+  - cryptography=3.0=py36hef61171_0
+  - cymem=2.0.3=py36h003fed8_2
+  - cython-blis=0.4.1=py36h68a101e_1
+  - idna=2.10=pyh9f0ad1d_0
+  - importlib-metadata=1.7.0=py36h9f0ad1d_0
+  - importlib_metadata=1.7.0=0
+  - intel-openmp=2020.2=254
+  - jsonschema=3.2.0=py36h9f0ad1d_1
+  - libblas=3.8.0=16_mkl
+  - libcblas=3.8.0=16_mkl
+  - liblapack=3.8.0=16_mkl
+  - mkl=2020.1=216
+  - murmurhash=1.0.0=py36hbd05846_0
+  - numpy=1.19.1=py36h12ee977_2
+  - openssl=1.1.1g=he774522_1
+  - pip=20.2.2=py_0
+  - plac=0.9.6=py36_0
+  - preshed=3.0.2=py36h003fed8_3
+  - pycparser=2.20=pyh9f0ad1d_2
+  - pyopenssl=19.1.0=py_1
+  - pyrsistent=0.16.0=py36h68a101e_0
+  - pysocks=1.7.1=py36h9f0ad1d_1
+  - python=3.6.11=h6f26aa1_2_cpython
+  - python_abi=3.6=1_cp36m
+  - requests=2.24.0=pyh9f0ad1d_0
+  - setuptools=49.6.0=py36h9f0ad1d_0
+  - six=1.15.0=pyh9f0ad1d_0
+  - spacy=2.3.2=py36hdbb1a49_0
+  - srsly=1.0.2=py36h003fed8_0
+  - thinc=7.4.1=py36hdbb1a49_0
+  - tqdm=4.48.2=pyh9f0ad1d_0
+  - urllib3=1.25.10=py_0
+  - vc=14.1=h869be7e_1
+  - vs2015_runtime=14.16.27012=h30e32a0_2
+  - wasabi=0.7.1=pyh9f0ad1d_0
+  - wheel=0.35.1=pyh9f0ad1d_0
+  - win_inet_pton=1.1.0=py36_0
+  - wincertstore=0.2=py36_1003
+  - zipp=3.1.0=py_0
+  - pip:
+    - en-core-web-md==2.3.1
+prefix: C:\Users\Maunil\miniconda3\envs\epics

@@ -1,4 +1,4 @@
-name: epics
+name: epics_env
 channels:
   - defaults
 dependencies:
@@ -33,5 +33,5 @@ dependencies:
   - wheel=0.34.2=py38_0
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
-prefix: /home/sai-vamsi-ogety/miniconda3/envs/epics
+prefix: /home/sai-vamsi-ogety/miniconda3/envs/epics_env
 

@@ -20,8 +20,5 @@ def entities(text):
     return ent_list
 
 
-if __name__ == "__main__":
-
-        entities()
 
 
